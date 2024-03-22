@@ -2,6 +2,7 @@ Notes:-
 
 -> The LFR and MSR works with 5 IR array Sensor where they can work till 3 mm line thickness.
 -> The connections for both the robots are same.
+-> Calibrating the IR sensors is the most important thing in this robot.
 
 Connection Between Arduino Nano and The Motor Driver:
 
